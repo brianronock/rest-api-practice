@@ -1,0 +1,101 @@
+# =========================
+# Java / Maven
+# =========================
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven wrapper generated files
+.mvn/wrapper/maven-wrapper.jar
+
+# =========================
+# IntelliJ IDEA
+# =========================
+.idea/
+*.iml
+*.iws
+out/
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# Eclipse / STS
+# =========================
+.project
+.classpath
+.settings/
+.springBeans
+.sts4-cache/
+
+# =========================
+# macOS
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# Runtime / temp files
+# =========================
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# =========================
+# Local environment files
+# =========================
+.env
+.env.*
+application-local.properties
+application-dev.properties
+
+# =========================
+# Test reports / coverage
+# =========================
+surefire-reports/
+failsafe-reports/
+jacoco.exec
+coverage/
+
+# =========================
+# JSON runtime data
+# =========================
+#person.json
+#orders.json
+#*.local.json
+
+# =========================
+# JavaFX / native packaging
+# =========================
+build/
+dist/
+*.dmg
+*.pkg
+*.exe
+*.msi
+
+# =========================
+# Node / frontend clients, for future Vue/React folders
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+dist/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.10 (dl_macos)" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="GitLabDefaultAccount">
+    <option name="defaultAccountId" value="3a55b425-27ee-4124-b00b-b9ec78d1cb29" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Person/Server/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (dl_macos)" project-jdk-type="Python SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
